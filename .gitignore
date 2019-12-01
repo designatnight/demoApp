@@ -1,0 +1,10 @@
+
+# Package Files #
+*.jar
+
+#Gradle temporary files
+target/
+
+#IntelliJ files
+**/*.iml
+**/.idea
